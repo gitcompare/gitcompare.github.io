@@ -1,2 +1,2 @@
-# gitcompare.github.io
-Simple Website to Compare [GitHub Alternatives](https://gitcomp.com/)
+# GitComp
+Simple Website to Find and Compare [GitHub Alternatives](https://gitcomp.com/)
